@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Build": {
+      "commandName": "Project",
+      "commandLineArgs": "--BuildConfiguration \"Release\" --RootDirectoryPath \"D:/GitHub/ProgrammerAL/programmeral-very-opinionated-aspnet/08-build-pipeline\""
+    }
+  }
+}
